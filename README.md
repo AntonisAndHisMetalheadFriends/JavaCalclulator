@@ -6,3 +6,4 @@ class crasachi
   private:  
     int ruski;
 }
+TI THES NA GRAPSW ?????
